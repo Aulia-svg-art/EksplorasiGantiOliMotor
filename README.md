@@ -1,2 +1,2 @@
-# EksplorasiGantiOliMotor
+# EksplorasiPolaBarisan
 Topik : Barisan Aritmetika
