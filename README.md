@@ -1,0 +1,2 @@
+# EksplorasiGantiOliMotor
+Topik : Barisan Aritmetika
